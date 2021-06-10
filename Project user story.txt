@@ -1,0 +1,5 @@
+
+
+As Artist, I want to post my work in a specilised application because we don't have such app in Tunisia.
+As Amal, I want to sell my paintings which have a charaterizing size,kind(pensil, acrilic, oil...) and price. 
+I want to be able to see my colleagues paintings too, so I can compare and make better paintings and have new contacts.
