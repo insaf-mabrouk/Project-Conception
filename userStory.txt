@@ -1,0 +1,4 @@
+1-User Story
+As Artist, I want to post my work in a specilised application because we don't have such app in Tunisia.I want to sell my paintings which have a charaterizing size,kind (pensil, acrilic, oil...) and price. I want to be able to see my colleagues paintings too, so I can compare and make better paintings and have new contacts.
+AsClient, I want to be able to consult all the posted paintings and making orders.
+As Admin I want to be able to make the gestion of all the products, all the artists and clients.
